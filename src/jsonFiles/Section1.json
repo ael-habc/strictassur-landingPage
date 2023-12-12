@@ -1,0 +1,28 @@
+{
+  "section1": [
+    {
+      "id": "1",
+      "title": "Faites des économies",
+      "text": "Vous avez sans doute plein d'idées pour utiliser autrement votre argent",
+      "imgLink": "section1"
+    },
+    {
+      "id": "2",
+      "title": "Ne payez rien en plus",
+      "text": "0 commission, 0 frais caché, ne payez rien en plus.",
+      "imgLink": "section1 (2)"
+    },
+    {
+      "id": "1",
+      "title": "Choisissez la meilleure offre",
+      "text": "Pas de temps à perdre ? Nous mettons maximum 10 min pour comparer 65 marques.",
+      "imgLink": "section1 (4)"
+    },
+    {
+      "id": "1",
+      "title": "Posez toutes vos questions",
+      "text": "Il n'y a pas de question bête, nous sommes là pour ça.",
+      "imgLink": "section1 (3)"
+    }
+  ]
+}

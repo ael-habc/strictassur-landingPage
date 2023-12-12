@@ -1,0 +1,32 @@
+.section1Box {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.section1Box img {
+  height: 72px;
+  width: 72px;
+  transition: scale 0.3s ease-in-out;
+}
+.section1Box img:hover {
+  cursor: pointer;
+  scale: 1.07;
+}
+.section1Box h3 {
+  color: #00faac;
+  font-family: DM Sans, sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.section1Box h3:nth-child(2) {
+  color: #f5f5f5;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+}
+
