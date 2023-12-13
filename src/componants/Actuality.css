@@ -1,12 +1,10 @@
 .actuality {
     width: 100vw;
-    height: 977px;
     padding: 0 120px;
   }
   
   .actuality h3:nth-child(1) {
     color: #1d2bb2;
-    background-color: red;
     width: 100px;
     font-family: DM Sans, sans-serif;
     font-size: 30px;
@@ -23,8 +21,6 @@
   }
   
   .actualityCard {
-    width: 373px;
-    height: 439px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -41,13 +37,10 @@
     border: 0.1px solid #4852ac57;
   }
   .line {
-    width: 371px;
     height: 11px;
     background: #00faac;
   }
   .actualityCard img {
-    width: 373px;
-    height: 250px;
     border-radius: 18px 18px 0px 0px;
     border: 1px solid #f0f0f0;
     background: linear-gradient(
@@ -70,8 +63,6 @@
     font-style: normal;
     font-weight: 700;
     line-height: 27px;
-    width: 327px;
-    height: 90px;
   }
   
   .actualityCard h3:nth-child(3) {
@@ -87,6 +78,5 @@
   .actualityImg {
     display: flex;
     flex-direction: column;
-    gap: 0;
   }
   

@@ -5,8 +5,6 @@
   align-items: center;
 }
 .section1Box img {
-  height: 72px;
-  width: 72px;
   transition: scale 0.3s ease-in-out;
 }
 .section1Box img:hover {

@@ -1,6 +1,5 @@
 .section1 {
     width: 100vw;
-    height: 584px;
     background: #1d2bb2;
     display: flex;
     flex-direction: column;
@@ -9,7 +8,6 @@
   
   .section1Text {
     display: flex;
-    height: 38px;
     justify-content: center;
     flex-shrink: 0;
     align-self: self-start;
@@ -23,8 +21,6 @@
     line-height: 50%;
   }
   .section1Title img {
-    width: 26px;
-    height: 32px;
     margin-right: 5px;
   }
   

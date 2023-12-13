@@ -2,18 +2,13 @@
   display: flex;
   width: 100vw;
   padding: 19px 120px 23px 120px;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  gap: 474px;
 }
-/* .logo {
-  width: 206px;
-  height: 62px;
-} */
+
 .navbar__links {
   display: flex;
   align-items: center;
-  width: 100vw;
   gap: 50px;
   justify-content: space-between;
 }
@@ -31,104 +26,4 @@ a {
   color: #00faac;
 }
 
-.vector {
-  position: absolute;
-  opacity: 0.7;
-}
 
-
-
-.vector21 {
-  top: calc(126px - 62px);
-  left: 302px;
-  width: 197.806px;
-  aspect-ratio: 1/1;
-  flex-shrink: 0;
-  animation: rotatey 7s linear infinite;
-}
-.vector22 {
-  width: 74.539px;
-  /* height: 92.213px; */
-  aspect-ratio: 1/1;
-  right: 130px;
-  top: 350px;
-  /* transform: rotate(-65.86deg); */
-  flex-shrink: 0;
-  animation: rotatex 9s linear infinite;
-}
-.vector23 {
-  width: 315.013px;
-  aspect-ratio: 1/1;
-  left: 110px;
-  top: 260px;
-  /* transform: rotate(-97.092deg); */
-  /* flex-shrink: 0; */
-  animation: rotatex 11s linear infinite;
-}
-.vector24 {
-  width: 220.409px;
-  aspect-ratio: 1/1;
-  right: 110px;
-  top: 600px;
-  /* transform: rotate(-158.899deg); */
-  flex-shrink: 0;
-  animation: rotatey 13s linear infinite;
-}
-
-/*rotation animation  */
-@keyframes rotatex {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(-360deg);
-  }
-}
-
-@keyframes rotatey {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-.vector11 {
-  width: 49.617px;
-  height: 61.381px;
-  right: 450px;
-  top: 650px;
-  animation: rotatex 10s linear infinite;
-}
-
-.vector12 {
-  width: 97px;
-  height: 120px;
-  left: 250px;
-  top: 650px;
-  animation: rotatex 7s linear infinite;
-}
-
-.vector13 {
-  width: 333px;
-  height: 411px;
-  left: 700px;
-  top: 200px;
-  animation: rotatey 10s linear infinite;
-}
-.vector14 {
-  width: 49.617px;
-  height: 61.381px;
-  left: 140px;
-  top: 450px;
-  animation: rotatey 11s linear infinite;
-}
-
-.vector15 {
-  width: 97px;
-  height: 120px;
-  right: 40px;
-  top: 200px;
-  animation: rotatex 14s linear infinite;
-}

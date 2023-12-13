@@ -31,6 +31,7 @@
   .section2Cards {
     display: flex;
     flex-direction: column;
+    gap: 80px;
     margin-top: 102px;
   }
   
@@ -43,7 +44,6 @@
   }
   .section2Card img {
     width: 500px;
-    height: 509px;
     margin-right: 30px;
   }
   .section2CardContent {
