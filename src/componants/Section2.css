@@ -1,0 +1,95 @@
+.section2 {
+    width: 100vw;
+    padding: 101px 120px;
+  }
+  
+  .section2 .section1Text {
+    width: 920px;
+  }
+  
+  .section2 .section1Text .section1Title {
+    color: #1d2bb2;
+    font-family: DM Sans, sans-serif;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50%;
+  }
+  
+  .section2P {
+    margin-top: 30px;
+    color: #636363;
+  
+    /* H3 */
+    font-family: DM Sans, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+  }
+  
+  .section2Cards {
+    display: flex;
+    flex-direction: column;
+    margin-top: 102px;
+  }
+  
+  .section2Card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+  }
+  .section2Card img {
+    width: 500px;
+    height: 509px;
+    margin-right: 30px;
+  }
+  .section2CardContent {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .section2CardContent h3:nth-child(1) {
+    color: #1d2bb2;
+    font-family: DM Sans, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0%;
+  }
+  
+  .section2CardContent h3:nth-child(2) {
+    color: #636363;
+    font-family: DM Sans, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+  }
+  
+  .section2CardContent button {
+    width: 253px;
+    height: 60px;
+    border-radius: 18px;
+    background: #00faac;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.25);
+    outline: none;
+    border: none;
+    color: #1d2bb2;
+  
+    font-family: DM Sans, sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0px;
+    transition: all 0.3s ease-in-out;
+  }
+  .section2CardContent button:hover {
+    cursor: pointer;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.5);
+    /* /* background: transparent; */
+    border: 1px solid #1d2bb2;
+  }
+  

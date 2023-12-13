@@ -1,0 +1,148 @@
+footer {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #00faac;
+  }
+  .footerContent {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    background-color: #1d2bb2;
+    padding: 44px 120px;
+    gap: 30px;
+  }
+  
+  .footerContent h3 {
+    color: #fcfffb;
+    font-family: DM Sans, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 100% */
+  }
+  
+  .formulaire {
+    display: flex;
+    gap: 37px;
+    align-items: flex-end;
+  }
+  
+  .inputSec {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .inputSec label {
+    color: #fcfffb;
+  
+    /* H3 */
+    font-family: DM Sans, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+  }
+  
+  .inputSec input {
+    border-radius: 18px;
+    background: #fff;
+    width: 246px;
+    height: 45px;
+    flex-shrink: 0;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: DM Sans, sans-serif;
+    padding-left: 20px;
+  }
+  
+  .inputSec:nth-child(3) input {
+    width: 421px;
+  }
+  
+  .inputSec input:focus {
+    outline: #00faac 2px solid;
+  }
+  
+  .formulaire button {
+    width: 173px;
+    height: 45px;
+    border-radius: 18px;
+    background: #00faac;
+    border: none;
+    color: #1d2bb2;
+    font-family: DM Sans, sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0px;
+    border: 1px solid #1d2bb2;
+  }
+  
+  .formulaire button:hover {
+    border: none;
+    background-color: #3fffc2;
+  }
+  
+  .footer_end {
+    width: 100vw;
+    padding: 52px 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    
+  }
+  
+  .footer_end .socialMedia {
+    display: flex;
+    flex-direction: column;
+    gap: 44px;
+  }
+  
+  .contact h3 {
+    color: #1d2bb2;
+    font-family: DM Sans, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+  }
+  
+  .socialIcons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .bosoins {
+    width: 2590px;
+    color: #1d2bb2;
+    font-family: DM Sans, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    gap: 44px;
+    display: flex;
+    flex-direction: column;
+  }
+  .bosoins .content {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+  .bosoins .content h3 {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .copyRight {
+    color: #1d2bb2;
+    font-family: DM Sans,sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    margin: 31px 120px;
+  }
+  

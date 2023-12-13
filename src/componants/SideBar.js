@@ -4,6 +4,8 @@ import phone from "../assets/SVG images/Layer 5.svg";
 import mail from "../assets/SVG images/Layer 4.svg";
 import layer from "../assets/SVG images/Layer 3.svg";
 
+import "./SideBar.css";
+
 
 export default function SideBar() {
   return (

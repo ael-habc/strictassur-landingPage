@@ -1,0 +1,46 @@
+{
+  "actuality": [
+    {
+      "id": 1,
+      "title": "Que faire en cas de litige concernant une facture d'électricité ?",
+      "text": "Quelles sont les grandes lois du marché de l'énergie en France ?",
+      "lien": "",
+      "image": "Rectangle 1"
+    },
+    {
+      "id": 2,
+      "title": "La loi POPE : qu'est-ce que c'est ? Comment ça marche ?",
+      "text":"Quelles sont les grandes lois du marché de l'énergie en France ?",
+        "lien": "",
+        "image": "Rectangle 2"
+    },
+    {
+        "id": 3,
+        "title": "La loi de nationalisation de l'électricité et du gaz du 8 avril 1946",
+        "text":"Quelles sont les grandes lois du marché de l'énergie en France ?",
+        "lien": "",
+        "image": "Rectangle 3"
+    },
+    {
+        "id": 4,
+        "title":"La loi Énergie Climat du 8 novembre 2019 : qu'est-ce que c'est ?",
+        "text":"Quelles sont les grandes lois du marché de l'énergie en France ?",
+        "lien": "",
+        "image": "Rectangle 4"
+    },
+    {
+        "id":5,
+        "title":"La loi Climat et Résilience du 22 août 2021 : tout ce qu'il faut savoir",
+        "text":"Quelles sont les grandes lois du marché de l'énergie en France ?",
+        "lien": "",
+        "image": "Rectangle 5"
+    },
+    {
+        "id":6,
+        "title":"Qu'est-ce que la loi NOME (Nouvelle Organisation du Marché de l'Électricité) ?",
+        "text":"Quelles sont les grandes lois du marché de l'énergie en France ?",
+        "lien": "",
+        "image": "Rectangle 6"
+    }
+  ]
+}
